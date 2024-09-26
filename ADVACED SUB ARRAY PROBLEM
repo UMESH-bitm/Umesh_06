@@ -13,4 +13,10 @@ for i in range(0,len(l)):
             max=s
 print(max)
 _________________________
+input :
+5
+2
+1 2 3 4 5 
+output :
+14
 
